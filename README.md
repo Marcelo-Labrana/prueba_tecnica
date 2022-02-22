@@ -1,6 +1,6 @@
 # prueba_tecnica
 
-1)   $ pip install Flask
+1)   $ pip install Flask <br>
      $ pip install pandas
 2) Ejecutar app.py
 3) abrir localhost:5000 en el navegador
