@@ -11,6 +11,6 @@
     el archivo output.csv en la carpeta del proyecto, donde estará almacenada la data de data.db .
     -En localhost:5000/menu se presentan dos opciones:<br>
         1.  a."Seleccionar nuevos productos": es para seleccionar un csv con productos nuevos en el formato del csv principal.<br>
-            b. "Cargar Nuevos Productos" : carga los nuevos productos al csv principal y la rest api.<br>
+        1.  b. "Cargar Nuevos Productos" : carga los nuevos productos al csv principal y la rest api.<br>
         2. "Consultar Productos" : redirecciona a una api en formato json, printea la data en la consola del 
         ejecutable y actualiza la información del output.csv hacia la api.
